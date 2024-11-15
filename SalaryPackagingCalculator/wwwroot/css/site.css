@@ -1,0 +1,121 @@
+/* General styles for the page */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f7fa;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.form-container {
+    background-color: #fff;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 600px;
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+    margin-bottom: 30px;
+}
+
+/* Styling the form fields */
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+    .form-group label {
+        font-size: 16px;
+        font-weight: bold;
+        margin-bottom: 8px;
+        color: #333;
+        display: block; /* Ensures label is on its own line */
+    }
+
+    .form-group input,
+    .form-group select {
+        width: 100%;
+        padding: 10px;
+        font-size: 14px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        background-color: #f9f9f9;
+        box-sizing: border-box;
+        display: block; /* Ensures input/select is on its own line below label */
+    }
+
+        .form-group input:focus,
+        .form-group select:focus {
+            border-color: #4CAF50;
+            outline: none;
+            background-color: #fff;
+        }
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 15px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    width: 100%;
+}
+
+    button:hover {
+        background-color: #45a049;
+    }
+
+    button:disabled {
+        background-color: #ccc;
+        cursor: not-allowed;
+    }
+
+/* Responsive design for smaller screens */
+@media screen and (max-width: 600px) {
+    .form-container {
+        padding: 20px;
+        width: 90%;
+    }
+
+    h1 {
+        font-size: 24px;
+    }
+
+    button {
+        padding: 12px 15px;
+        font-size: 14px;
+    }
+}
+
+/* Conditional containers for additional fields */
+#hoursWorkedContainer,
+#educatedContainer {
+    display: none; /* Hidden by default */
+}
+
+/* Style for the Hours Worked per Week field */
+/*#hoursWorkedContainer {
+    display: block;*/ /* Ensure label and input are on different lines */
+/*}*/
+
+    #hoursWorkedContainer label {
+        margin-bottom: 8px; /* Space between label and input */
+    }
+
+    #hoursWorkedContainer input {
+        margin-top: 5px; /* Space between label and input field */
+    }
+

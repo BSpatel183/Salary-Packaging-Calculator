@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "SalaryPackagingCalculator.Controllers.SalaryPackageController",
+    "Method": "CalculateLimit",
+    "RelativePath": "api/SalaryPackage",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "SalaryPackagingCalculator.Models.SalaryDetailRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Double",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

@@ -1,0 +1,52 @@
+C:\Users\DipeshDadhania\source\repos\Bharvi\SalaryPAckagingCalculator\SalaryPAckagingCalculator\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\DipeshDadhania\source\repos\Bharvi\SalaryPAckagingCalculator\SalaryPAckagingCalculator\bin\Debug\net6.0\appsettings.json
+C:\Users\DipeshDadhania\source\repos\Bharvi\SalaryPAckagingCalculator\SalaryPAckagingCalculator\bin\Debug\net6.0\SalaryPAckagingCalculator.staticwebassets.runtime.json
+C:\Users\DipeshDadhania\source\repos\Bharvi\SalaryPAckagingCalculator\SalaryPAckagingCalculator\bin\Debug\net6.0\SalaryPAckagingCalculator.exe
+C:\Users\DipeshDadhania\source\repos\Bharvi\SalaryPAckagingCalculator\SalaryPAckagingCalculator\bin\Debug\net6.0\SalaryPAckagingCalculator.deps.json
+C:\Users\DipeshDadhania\source\repos\Bharvi\SalaryPAckagingCalculator\SalaryPAckagingCalculator\bin\Debug\net6.0\SalaryPAckagingCalculator.runtimeconfig.json
+C:\Users\DipeshDadhania\source\repos\Bharvi\SalaryPAckagingCalculator\SalaryPAckagingCalculator\bin\Debug\net6.0\SalaryPAckagingCalculator.dll
+C:\Users\DipeshDadhania\source\repos\Bharvi\SalaryPAckagingCalculator\SalaryPAckagingCalculator\bin\Debug\net6.0\SalaryPAckagingCalculator.pdb
+C:\Users\DipeshDadhania\source\repos\Bharvi\SalaryPAckagingCalculator\SalaryPAckagingCalculator\obj\Debug\net6.0\SalaryPAckagingCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DipeshDadhania\source\repos\Bharvi\SalaryPAckagingCalculator\SalaryPAckagingCalculator\obj\Debug\net6.0\SalaryPAckagingCalculator.AssemblyInfoInputs.cache
+C:\Users\DipeshDadhania\source\repos\Bharvi\SalaryPAckagingCalculator\SalaryPAckagingCalculator\obj\Debug\net6.0\SalaryPAckagingCalculator.AssemblyInfo.cs
+C:\Users\DipeshDadhania\source\repos\Bharvi\SalaryPAckagingCalculator\SalaryPAckagingCalculator\obj\Debug\net6.0\SalaryPAckagingCalculator.csproj.CoreCompileInputs.cache
+C:\Users\DipeshDadhania\source\repos\Bharvi\SalaryPAckagingCalculator\SalaryPAckagingCalculator\obj\Debug\net6.0\SalaryPAckagingCalculator.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DipeshDadhania\source\repos\Bharvi\SalaryPAckagingCalculator\SalaryPAckagingCalculator\obj\Debug\net6.0\staticwebassets\msbuild.SalaryPAckagingCalculator.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\DipeshDadhania\source\repos\Bharvi\SalaryPAckagingCalculator\SalaryPAckagingCalculator\obj\Debug\net6.0\staticwebassets\msbuild.build.SalaryPAckagingCalculator.props
+C:\Users\DipeshDadhania\source\repos\Bharvi\SalaryPAckagingCalculator\SalaryPAckagingCalculator\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SalaryPAckagingCalculator.props
+C:\Users\DipeshDadhania\source\repos\Bharvi\SalaryPAckagingCalculator\SalaryPAckagingCalculator\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SalaryPAckagingCalculator.props
+C:\Users\DipeshDadhania\source\repos\Bharvi\SalaryPAckagingCalculator\SalaryPAckagingCalculator\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\DipeshDadhania\source\repos\Bharvi\SalaryPAckagingCalculator\SalaryPAckagingCalculator\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\DipeshDadhania\source\repos\Bharvi\SalaryPAckagingCalculator\SalaryPAckagingCalculator\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\DipeshDadhania\source\repos\Bharvi\SalaryPAckagingCalculator\SalaryPAckagingCalculator\obj\Debug\net6.0\scopedcss\bundle\SalaryPAckagingCalculator.styles.css
+C:\Users\DipeshDadhania\source\repos\Bharvi\SalaryPAckagingCalculator\SalaryPAckagingCalculator\obj\Debug\net6.0\SalaryPAckagingCalculator.dll
+C:\Users\DipeshDadhania\source\repos\Bharvi\SalaryPAckagingCalculator\SalaryPAckagingCalculator\obj\Debug\net6.0\refint\SalaryPAckagingCalculator.dll
+C:\Users\DipeshDadhania\source\repos\Bharvi\SalaryPAckagingCalculator\SalaryPAckagingCalculator\obj\Debug\net6.0\SalaryPAckagingCalculator.pdb
+C:\Users\DipeshDadhania\source\repos\Bharvi\SalaryPAckagingCalculator\SalaryPAckagingCalculator\obj\Debug\net6.0\SalaryPAckagingCalculator.genruntimeconfig.cache
+C:\Users\DipeshDadhania\source\repos\Bharvi\SalaryPAckagingCalculator\SalaryPAckagingCalculator\obj\Debug\net6.0\ref\SalaryPAckagingCalculator.dll
+C:\Users\bharv\OneDrive\Desktop\Lease PLUS\SalaryPackagingCalculator\SalaryPackagingCalculator\SalaryPAckagingCalculator\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\bharv\OneDrive\Desktop\Lease PLUS\SalaryPackagingCalculator\SalaryPackagingCalculator\SalaryPAckagingCalculator\bin\Debug\net6.0\appsettings.json
+C:\Users\bharv\OneDrive\Desktop\Lease PLUS\SalaryPackagingCalculator\SalaryPackagingCalculator\SalaryPAckagingCalculator\bin\Debug\net6.0\SalaryPackagingCalculator.staticwebassets.runtime.json
+C:\Users\bharv\OneDrive\Desktop\Lease PLUS\SalaryPackagingCalculator\SalaryPackagingCalculator\SalaryPAckagingCalculator\bin\Debug\net6.0\SalaryPackagingCalculator.exe
+C:\Users\bharv\OneDrive\Desktop\Lease PLUS\SalaryPackagingCalculator\SalaryPackagingCalculator\SalaryPAckagingCalculator\bin\Debug\net6.0\SalaryPackagingCalculator.deps.json
+C:\Users\bharv\OneDrive\Desktop\Lease PLUS\SalaryPackagingCalculator\SalaryPackagingCalculator\SalaryPAckagingCalculator\bin\Debug\net6.0\SalaryPackagingCalculator.runtimeconfig.json
+C:\Users\bharv\OneDrive\Desktop\Lease PLUS\SalaryPackagingCalculator\SalaryPackagingCalculator\SalaryPAckagingCalculator\bin\Debug\net6.0\SalaryPackagingCalculator.dll
+C:\Users\bharv\OneDrive\Desktop\Lease PLUS\SalaryPackagingCalculator\SalaryPackagingCalculator\SalaryPAckagingCalculator\bin\Debug\net6.0\SalaryPackagingCalculator.pdb
+C:\Users\bharv\OneDrive\Desktop\Lease PLUS\SalaryPackagingCalculator\SalaryPackagingCalculator\SalaryPAckagingCalculator\obj\Debug\net6.0\SalaryPackagingCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bharv\OneDrive\Desktop\Lease PLUS\SalaryPackagingCalculator\SalaryPackagingCalculator\SalaryPAckagingCalculator\obj\Debug\net6.0\SalaryPackagingCalculator.AssemblyInfoInputs.cache
+C:\Users\bharv\OneDrive\Desktop\Lease PLUS\SalaryPackagingCalculator\SalaryPackagingCalculator\SalaryPAckagingCalculator\obj\Debug\net6.0\SalaryPackagingCalculator.AssemblyInfo.cs
+C:\Users\bharv\OneDrive\Desktop\Lease PLUS\SalaryPackagingCalculator\SalaryPackagingCalculator\SalaryPAckagingCalculator\obj\Debug\net6.0\SalaryPackagingCalculator.csproj.CoreCompileInputs.cache
+C:\Users\bharv\OneDrive\Desktop\Lease PLUS\SalaryPackagingCalculator\SalaryPackagingCalculator\SalaryPAckagingCalculator\obj\Debug\net6.0\SalaryPackagingCalculator.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bharv\OneDrive\Desktop\Lease PLUS\SalaryPackagingCalculator\SalaryPackagingCalculator\SalaryPAckagingCalculator\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\bharv\OneDrive\Desktop\Lease PLUS\SalaryPackagingCalculator\SalaryPackagingCalculator\SalaryPAckagingCalculator\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\bharv\OneDrive\Desktop\Lease PLUS\SalaryPackagingCalculator\SalaryPackagingCalculator\SalaryPAckagingCalculator\obj\Debug\net6.0\staticwebassets\msbuild.SalaryPackagingCalculator.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\bharv\OneDrive\Desktop\Lease PLUS\SalaryPackagingCalculator\SalaryPackagingCalculator\SalaryPAckagingCalculator\obj\Debug\net6.0\staticwebassets\msbuild.build.SalaryPackagingCalculator.props
+C:\Users\bharv\OneDrive\Desktop\Lease PLUS\SalaryPackagingCalculator\SalaryPackagingCalculator\SalaryPAckagingCalculator\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SalaryPackagingCalculator.props
+C:\Users\bharv\OneDrive\Desktop\Lease PLUS\SalaryPackagingCalculator\SalaryPackagingCalculator\SalaryPAckagingCalculator\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SalaryPackagingCalculator.props
+C:\Users\bharv\OneDrive\Desktop\Lease PLUS\SalaryPackagingCalculator\SalaryPackagingCalculator\SalaryPAckagingCalculator\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\bharv\OneDrive\Desktop\Lease PLUS\SalaryPackagingCalculator\SalaryPackagingCalculator\SalaryPAckagingCalculator\obj\Debug\net6.0\scopedcss\bundle\SalaryPackagingCalculator.styles.css
+C:\Users\bharv\OneDrive\Desktop\Lease PLUS\SalaryPackagingCalculator\SalaryPackagingCalculator\SalaryPAckagingCalculator\obj\Debug\net6.0\SalaryPackagingCalculator.dll
+C:\Users\bharv\OneDrive\Desktop\Lease PLUS\SalaryPackagingCalculator\SalaryPackagingCalculator\SalaryPAckagingCalculator\obj\Debug\net6.0\refint\SalaryPackagingCalculator.dll
+C:\Users\bharv\OneDrive\Desktop\Lease PLUS\SalaryPackagingCalculator\SalaryPackagingCalculator\SalaryPAckagingCalculator\obj\Debug\net6.0\SalaryPackagingCalculator.pdb
+C:\Users\bharv\OneDrive\Desktop\Lease PLUS\SalaryPackagingCalculator\SalaryPackagingCalculator\SalaryPAckagingCalculator\obj\Debug\net6.0\SalaryPackagingCalculator.genruntimeconfig.cache
+C:\Users\bharv\OneDrive\Desktop\Lease PLUS\SalaryPackagingCalculator\SalaryPackagingCalculator\SalaryPAckagingCalculator\obj\Debug\net6.0\ref\SalaryPackagingCalculator.dll

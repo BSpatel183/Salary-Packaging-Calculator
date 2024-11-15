@@ -1,0 +1,60 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Salary Packaging Calculator</title>
+    <link rel="stylesheet" href="css/site.css"> <!-- Link to the external CSS file -->
+</head>
+<body>
+    <div class="form-container">
+        <h1>Salary Packaging Calculator</h1>
+        <form id="salaryPackagingForm">
+            <div class="form-group">
+                <label for="salary">Annual Salary ($) *</label>
+                <input type="number" id="salary" name="salary" min="0" required>
+            </div>
+
+            <div class="form-group">
+                <label for="employerType">Employer Type *</label>
+                <select id="employerType" name="employerType" onchange="toggleHoursWorkedField(); toggleEducatedField()" required>
+                    <option value="">Select...</option>
+                    <option value="Corporate">Corporate</option>
+                    <option value="Hospital">Hospital</option>
+                    <option value="PBI">PBI</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="employmentType">Employment Type *</label>
+                <select id="employmentType" name="employmentType" onchange="toggleHoursWorkedField()" required>
+                    <option value="">Select...</option>
+                    <option value="Full-time">Full-time</option>
+                    <option value="Part-time">Part-time</option>
+                    <option value="Casual">Casual</option>
+                </select>
+            </div>
+
+            <div class="form-group" id="hoursWorkedContainer">
+                <label for="hoursWorked">Hours Worked per Week </label>
+                <input type="number" id="hoursWorked" name="hoursWorked" min="0" max="38">
+            </div>
+
+            <div class="form-group" id="educatedContainer">
+                <label for="educated">Do you have a Bachelor's degree or higher?</label>
+                <select id="educated" name="educated" required>
+                    <option value="">Select...</option>
+                    <option value="Yes">Yes</option>
+                    <option value="No">No</option>
+                </select>
+            </div>
+
+            <button type="button" onclick="calculateSalaryPackage()">Calculate</button>
+        </form>
+
+        <p id="result"></p>
+    </div>
+
+    <script src="js/site.js"></script> <!-- Link to external JS file -->
+</body>
+</html>
